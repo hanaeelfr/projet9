@@ -1,0 +1,283 @@
+[
+    {
+        "poste":"photo/Coco.jpg",
+        "titre":"coco",
+        "realisateur":"Adrian Molina",
+        "anné":2017,
+        "duré":"1h 45m",
+        "festival":[
+           " Gala de cloture du festival international du film",
+           " Annecy International Animation Film Festival"
+        ],
+    "acteur":[
+            {
+                "nom":" Andrews",
+                "prénom":" Julie",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" el ajoumi",
+                "prénom":" mohammed aymane",
+                "nationalité":" (morocco)"
+            },
+            {
+                "nom":" el fraihi",
+                "prénom":" ibrahim",
+                "nationalité":" (morocco)"
+            }
+        ]
+    },
+    {
+        "poste":"photo/luca.jpg",
+        "titre":"luca",
+        "realisateur":"Enrico Casarosa",
+        "anné":2021,
+        "duré":"1h 35m",
+        "festival":[
+           " Gala de cloture du festival international du film",
+           " Istanbul International Film Festival"
+        ],
+     "acteur":[
+            {
+                "nom":" Stevenson",
+                "prénom":" Robert",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" merrah",
+                "prénom":" zineb",
+                "nationalité":" (morocco)"
+            },
+            {
+                "nom":" el fraihi mouttaki",
+                "prénom":" hanae",
+                "nationalité":" (morocco)"
+            }
+        ]
+    },
+    {
+        "poste":"photo/encato.jpg",
+        "titre":"encato",
+        "realisateur":"Byron Howard",
+        "anné":2021,
+        "duré":"1h 49m",
+        "festival":[
+           " Gala de cloture du festival international du film",
+           "Public Health Film Festival"
+        ],
+     "acteur":[
+            {
+                "nom":" Samidi",
+                "prénom":" Zaid",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" Lanjri",
+                "prénom":" douae",
+                "nationalité":" (morocco)"
+            },
+            {
+                "nom":" kadori",
+                "prénom":" Janat",
+                "nationalité":"( morocco)"
+            }
+        ]
+    },
+    {
+        "poste":"photo/mary-poppins.jpg",
+        "titre":"Le Retour de Mary Poppins",
+        "realisateur":"Rob Marshall",
+        "anné":2018,
+        "duré":"2h 10m",
+        "festival":[
+           " Gala de cloture du festival international du film",
+           " International Film Festival of India"
+        ],
+     "acteur":[
+            {
+                "nom":" moundelssi",
+                "prénom":" Yassin",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" nemmassi",
+                "prénom":" marwan",
+                "nationalité":" (morocco)"
+            },
+            {
+                "nom":" el fraihi mouttaki",
+                "prénom":" hanae",
+                "nationalité":" (morocco)"
+            }
+        ]
+    },
+    {
+        "poste":"photo/soul.jpg",
+        "titre":"Soul",
+        "realisateur":"Pete Docter",
+        "anné":2020,
+        "duré":"1h 40m",
+        "festival":[
+           " Gala de cloture du festival international du film",
+           " Annecy International Animation Film Festival"
+        ],
+     "acteur":[
+            {
+                "nom":" Stevenson",
+                "prénom":" Robert",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" Saedi",
+                "prénom":" Amina",
+                "nationalité":" (morocco)"
+            },
+            {
+                "nom":" el fraihi mouttaki",
+                "prénom":" hanae",
+                "nationalité":" (morocco)"
+            }
+        ]
+    },
+    {
+        "poste":"photo/Raya.png",
+        "titre":"Raya",
+        "realisateur":"Don Hall",
+        "anné":2021,
+        "duré":"1h 47m",
+        "festival":[
+           " Gala de cloture du festival international du film",
+           " Public Health Film Festival"
+        ],
+     "acteur":[
+            {
+                "nom":" Steven",
+                "prénom":" Robert",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" jaouane",
+                "prénom":" achraf",
+                "nationalité":" (morocco)"
+            },
+            {
+                "nom":" el fraihi mouttaki",
+                "prénom":" hanae",
+                "nationalité":" (morocco)"
+            }
+        ]
+    },
+    {
+        "poste":"photo/oceania.jpeg",
+        "titre":"oceania",
+        "realisateur":"Ron Clements",
+        "anné":2016,
+        "duré":"1h 47m",
+        "festival":[
+           " Gala de cloture du festival international du film",
+           " International Film Festival of Marrakech"
+        ],
+     "acteur":[
+            {
+                "nom":" Stevenson",
+                "prénom":" Robert",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" souiri",
+                "prénom":" haytam",
+                "nationalité":" (morocco)"
+            },
+            {
+                "nom":" kapor",
+                "prénom":" maykel",
+                "nationalité":" (morocco)"
+            }
+        ]
+    },
+    {
+        "poste":"photo/cruella.jpg",
+        "titre":"Cruella",
+        "realisateur":"Craig Gillespie",
+        "anné":2021,
+        "duré":"2h 14m",
+        "festival":[
+           " Gala de cloture du festival international du film"
+        ],
+     "acteur":[
+            {
+                "nom":" Stevenson",
+                "prénom":" stive",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" merrah",
+                "prénom":" hiba",
+                "nationalité":" (morocco)"
+            },
+            {
+                "nom":" el fraihi mouttaki",
+                "prénom":" sara",
+                "nationalité":" (morocco)"
+            }
+        ]
+    },
+    {
+        "poste":"photo/mulan.jpg",
+        "titre":"Mulan",
+        "realisateur":"Tony Bancroft",
+        "anné":2020,
+        "duré":"1h 35m",
+        "festival":[
+           " Gala de cloture du festival international du film",
+           " International Film Festival of Marrakech"
+        ],
+     "acteur":[
+            {
+                "nom":" Stevenson",
+                "prénom":" raghib",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" merrah",
+                "prénom":" jihan",
+                "nationalité":" (morocco)"
+            },
+            {
+                "nom":" el fraihi mouttaki",
+                "prénom":" Lamiae",
+                "nationalité":" (morocco)"
+            }
+        ]
+    },
+    {
+        "poste":"photo/jumanji.jpg",
+        "titre":"Jumanji",
+        "realisateur":"Jake Kasdan",
+        
+        
+        "anné":2017,
+        "duré":"1h 35m",
+        "festival":[
+           " Gala de cloture du festival international du film",
+           "Annecy International Animation Film Festival"
+        ],
+     "acteur":[
+            {
+                "nom":" van duke",
+                "prénom":" Robert",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" stevenson",
+                "prénom":" lara",
+                "nationalité":" (U.S.A)"
+            },
+            {
+                "nom":" hode",
+                "prénom":" Roben",
+                "nationalité":" (U.S.A)"
+            }
+        ]
+    }
+]
